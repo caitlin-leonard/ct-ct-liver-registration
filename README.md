@@ -4,6 +4,8 @@
 
 Developed a literature-grounded, intensity-based deformable registration pipeline for aligning contrast-enhanced CT (CECT) with non-contrast CT for liver image-guided ablation planning.
 
+![Technical report title](figs/c.png)
+
 > **Source code:** Confidential — not included in this repository.  
 > **Technical report:** Available upon request, subject to confidentiality approval. 📄 [Request access here](YOUR_DRIVE_LINK)
 
@@ -32,6 +34,19 @@ CT–CT registration is challenging because:
 - Implemented an optional **GPU diffeomorphic deformable stage** using a stationary velocity field and local normalized cross-correlation.
 - Built an integrated **GUI-based desktop application** with live stage progress, metric visualization, result inspection, and landmark-based validation.
 - Implemented **Target Registration Error (TRE)** validation using corresponding vessel-bifurcation landmarks in physical coordinates.
+
+---
+
+## Interface
+
+The pipeline was delivered as a GUI-driven desktop application. The image below is a
+**mock-up** of the registration interface — a representative illustration using
+placeholder data, not a real screenshot, and containing no clinical data or patient
+images.
+
+![CT–CT Registration Suite — mock-up (illustrative, placeholder data)](figs/gui.png)
+
+*Mock-up for illustration only. Not a real screenshot; no patient data shown.*
 
 ---
 
