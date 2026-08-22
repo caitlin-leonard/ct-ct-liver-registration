@@ -7,7 +7,7 @@ Developed a literature-grounded, intensity-based deformable registration pipelin
 ![Technical report title](figs/c.png)
 
 > **Source code:** Confidential — not included in this repository.  
-> **Technical report:** Available upon request, subject to confidentiality approval. 📄 [Request access here](YOUR_DRIVE_LINK)
+> **Technical report:** Available upon request, subject to confidentiality approval. 📄 [Request access here](https://drive.google.com/file/d/1ljEQDjzgrwa2rUA95qoQEhWyZ4mciNfX/view?usp=sharing)
 
 ---
 
@@ -134,7 +134,7 @@ This repository is a **documentation-only portfolio artifact** describing work c
 
 A detailed technical report describing the literature review, methodology, implementation, experiments, and validation is available upon request, subject to confidentiality approval.
 
-📄 **[Request access to the technical report](YOUR_DRIVE_LINK)**
+📄 **[Request access to the technical report](https://drive.google.com/file/d/1ljEQDjzgrwa2rUA95qoQEhWyZ4mciNfX/view?usp=sharing)**
 
 ---
 
