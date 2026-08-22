@@ -1,6 +1,6 @@
 # CT–CT Liver Registration
 
-**Medical Image Processing and AI Research Internship | Perfint Healthcare, Chennai**
+**Medical Image Processing and AI Research | Perfint Healthcare**
 
 Developed a literature-grounded, intensity-based deformable registration pipeline for aligning contrast-enhanced CT (CECT) with non-contrast CT for liver image-guided ablation planning.
 
